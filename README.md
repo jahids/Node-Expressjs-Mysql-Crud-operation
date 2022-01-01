@@ -1,5 +1,5 @@
 # node-express-mysql-crud
-A simple CRUD example for Node.js based on Express, MySQL and Jade template
+A simple CRUD example for Node.js based on Express, MySQL 
 
 ## Installation
 Please clone or download this to your machine then hit :
